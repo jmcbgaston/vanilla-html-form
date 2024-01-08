@@ -4,7 +4,7 @@ This simple project answers the question: "Can you build a form purely out of HT
 
 ### The Result:
 
-Sort of? [Live link]()
+Sort of? [Live link](https://jmcbgaston.github.io/vanilla-html-form)
 
 ### Findings:
 
